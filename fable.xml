@@ -4,6 +4,6 @@
         <agent img="unlocked.png" x="100" y="118"  width="75" height="150" on-touch="open">
             <open img="open.png" /> </agent>     
         <agent img="unlocked.png" x="350" y="118"  width="75" height="150" on-touch="open">
-            <open img="open.png" /> </agent>
+            <open img="open.png" on-touch="NEXTPAGE"/> </agent>
   </page>
 </fable>
