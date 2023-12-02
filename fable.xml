@@ -18,11 +18,8 @@
     <page background="bg_neve.png">
         <agent x="10" y="400" text="Parabéns você conseguiu sair vivo!" color="white"></agent>
     </page>
-
-    
-
     <page background="scary-dragon-iojx5lz5zuwrja0l.jpg">
-        <agent x="80"  y="400" text="Você morreu! Eu disse pra escolher DIREITO!" color="white" ></agent>
+        <agent x="80"  y="400" text="VOCÊ MORREU! EU DISSE PARA ESCOLHER 'DIREITO'!" color="white" ></agent>
     </page>
     
     
