@@ -1,5 +1,6 @@
 <fable>
-	<page>
+	<page background="bg_neve.png">
+        <agent x="175" y="200" text="Pense bem e escolha dire">
   
     
   </page>
