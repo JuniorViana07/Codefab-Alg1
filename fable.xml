@@ -7,7 +7,8 @@
                 <unlocked img="unlocked.png" on-touch="open"/>
                 <open img="open.png"/>
         </agent>     
-        <agent img="unlocked.png" x="350" y="118"  width="75" height="150">
+        <agent img="unlocked.png" x="350" y="118"  width="75" height="150" on-trigger="unlocked">
+            <unlocked >
         
         <enter >
   </page>
