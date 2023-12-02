@@ -1,7 +1,8 @@
 <fable>
 	<page background="BGTile (7).png">
         <agent img="locked2.png" x="150" y="118"  width="75" height="150" on-trigger="unlocked">
-        <unlocked img="open.png" on>
+        <unlocked img=".png" on-touch="open">
+        <open >
         <agent img="locked.png" x="350" y="118"  width="75" height="150">
         <agent x="10" y="400" text="Pense bem e escolha direito, você não quer escolher a porta errada!" color="white" on-zone="enter">
         <enter >
