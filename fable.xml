@@ -6,4 +6,11 @@
         <agent img="unlocked.png" x="350" y="118"  width="75" height="150" on-touch="open">
             <open img="open.png" on-touch="__NEXTPAGE" /> </agent>
   </page>
+    <page background="BGTile (7).png">
+        <agent img="unlocked.png" x="100" y="118"  width="75" height="150" on-touch="open">
+            <open img="open.png" /> </agent>     
+        <agent img="unlocked.png" x="350" y="118"  width="75" height="150" on-touch="open">
+            <open img="open.png" on-touch="__NEXTPAGE" /> </agent>
+
+    </page>
 </fable>
