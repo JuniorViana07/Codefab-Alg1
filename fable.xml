@@ -20,7 +20,8 @@
         <agent img="1.png" x="0" y="0" width="100" height="100"/>
         <agent img="2.png" x="100" y="0" width="100" height="100"/>
         <agent img="2.png" x="200" y="0" width="100" height="100"/>
-        <agent img="3.png" x="300" y="0" width="100" height="100"/>
+        <agent img="2.png" x="300" y="0" width="100" height="100"/>
+        <agent img="3.png" x="400" y="0" width="100" height="100"/>
     </page>
     <page background="scary-dragon-iojx5lz5zuwrja0l.jpg">
         <agent x="80"  y="400" text="VOCÊ MORREU! EU DISSE PARA ESCOLHER 'DIREITO'!" color="white" ></agent>
